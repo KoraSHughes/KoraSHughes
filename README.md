@@ -1,5 +1,5 @@
 <!--  hello :3  -->
-# Hi there👋🏽, I'm Kora🌸 <img src="https://github.com/KoraSHughes/KoraSHughes/blob/main/heyitsmepng.png" width=120 alt="pic of me :)" align=right>
+# Hi there👋🏽, I'm Kora🌸 <img src="https://github.com/KoraSHughes/KoraSHughes/blob/main/heyitsmepng.png" width=115 alt="pic of me :)" align=right>
   - 😄 Pronouns: she/her 
   - 💬 General Info: I'm a computer science postgraduate student at NYU Tandon💜; primarily based in NYC🌃.
   - 👩🏽‍💻I primarily work in Python, SQL, HTML, CSS, PHP, JavaScript, C++, Xcode/Swift, and C# with Unity.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
