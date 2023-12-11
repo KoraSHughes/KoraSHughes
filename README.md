@@ -1,7 +1,7 @@
 <!--  hello :3  -->
 # Hi there👋🏽, I'm Kora🌸 <img src="https://github.com/KoraSHughes/KoraSHughes/blob/main/heyitsmepng.png" width=110 alt="pic of me :)" align=right>
   - 😄 Pronouns: she/her 
-  - 💬 General Info: I'm a computer science postgraduate student at NYU Tandon💜; primarily based in NYC🌃.
+  - 💬 General Info: I'm a computer science postgraduate student at NYU Tandon💜 -- based in NYC🌃.
   - 👩🏽‍💻I primarily work in Python, SQL, HTML, CSS, PHP, JavaScript, C++, Xcode/Swift, and C# with Unity.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - ❣ I'm passionate about applied AI, XR, robotics, and technological intersections to accessibility, equity, and healthcare.
   - 🔭 I’m currently pursuing various research projects centering around machine learning. Some of my more recent papers include <a href="https://games.jmir.org/2022/1/e27597">Data-Driven Classification of Human Movements in Virtual Reality</a> and <a href="https://www.linkedin.com/posts/korashughes_algorithmic-classification-models-for-sign-activity-7007154391946305536-T1fT?utm_source=share&utm_medium=member_desktop">Algorithmic Classification Models for Static Sign Language Processing</a>.
