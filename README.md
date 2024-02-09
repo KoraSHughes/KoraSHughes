@@ -1,11 +1,12 @@
 <!--  hello :3  -->
 # Hi there👋🏽, I'm Kora🌸 <img src="https://github.com/KoraSHughes/KoraSHughes/blob/main/heyitsmepng.png" width=110 alt="pic of me :)" align=right>
-  - 😄 Pronouns: she/her 
+  - 😄 Pronouns: she/her
+  - 📝 Background: <a href="https://docs.google.com/document/d/1HrtfWwI153WX1UtNxkRJzRZ9ZC9D8AehBAdq7alomfQ/edit">curriculum vitae</a>
   - 💬 General Info: I'm a computer science postgraduate student at NYU Tandon💜 -- based in NYC🌃.
   - 👩🏽‍💻I primarily work in Python, SQL, HTML, CSS, PHP, JavaScript, C++, Xcode/Swift, and C# with Unity.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - ❣ I'm passionate about applied AI, XR, robotics, and technological intersections to accessibility, equity, and healthcare.
   - 🔭 I’m currently pursuing various research projects centering around machine learning. Some of my more recent papers include <a href="https://games.jmir.org/2022/1/e27597">Data-Driven Classification of Human Movements in Virtual Reality</a> and <a href="https://www.linkedin.com/posts/korashughes_algorithmic-classification-models-for-sign-activity-7007154391946305536-T1fT?utm_source=share&utm_medium=member_desktop">Algorithmic Classification Models for Static Sign Language Processing</a>.
-  - 📝 Apart from my open source work seen in the repositories below, I also exierience in autonomous robotics programming, data visualization research, and telerobotic impotence modeling: all of which you can read about on my ✨<a href="https://docs.google.com/document/d/18UB7Kj1QnymrQ_7jpJONIZEUom4TYSEqk-FB1N519U0/edit?usp=sharing">resume</a> and <a href="https://www.linkedin.com/in/korashughes/">LinkedIn</a>✨.
+  - 📝 Apart from my open source work seen in the repositories below, I also exierience in autonomous robotics programming, data visualization research, and telerobotic impotence modeling: all of which you can read about on my ✨<a href="https://www.linkedin.com/in/korashughes/">LinkedIn</a>✨.
   - Outside of my research, I am also a drummer🍗, martial artist🥋, and a polyglot🗣️.
   
 ## Extra Info: 💁🏽 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">   <img src="https://media.giphy.com/media/vUUAX04g3fto4/giphy.gif" width=165 align=right>
