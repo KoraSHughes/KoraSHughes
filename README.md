@@ -4,7 +4,7 @@
 # Hi there👋🏽, I'm Kora🌸
   - 😄 Pronouns: she/her <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" align=right>
   - 📝 Background: <a href="https://docs.google.com/document/d/1HrtfWwI153WX1UtNxkRJzRZ9ZC9D8AehBAdq7alomfQ/edit">curriculum vitae</a>
-  - 💬 I'm a PhD student passionate about applied AI, robotics, and technological intersections to human health, accessibility, and equity.
+  - 💬 I'm a PhD student passionate about AI and robotics research intersecting with human health, accessibility, and equity.
   - 👩🏽‍💻I tend to work in Python but have many projects using Matlab, C++, SQL, HTML, JavaScript, Xcode, C# with Unity, and more.
   - 📝 Apart from my open source work seen in the repositories below, I also have experience in autonomous robotics programming, entity research visualization, and LLM development: all of which you can read about on my ✨<a href="https://www.linkedin.com/in/korashughes/">LinkedIn</a>✨.
   - Outside of my research, I am also a drummer🍗, martial artist🥋, athlete🏂, and a polyglot🗣️.
